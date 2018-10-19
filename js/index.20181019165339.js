@@ -8,6 +8,9 @@ $('.js').attr('src', 'images/logo-108.png');
 $('.js-2').attr('src', 'images/png-1--37.png');
 $('.js-3').attr('src', 'images/zi-ti-47.png');
 $('.js-4').attr('src', 'images/gang-bi-36.png');
+$('.js-5').attr('src', 'images/yan-se-40.png');
+$('.js-6').attr('src', 'images/sketch-38.png');
+$('.js-7').attr('src', 'images/tu-pian-43.png');
 
 }
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(){$(this).click(function(){var t=this.hash.length>1?$('[name="'+this.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
