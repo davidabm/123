@@ -13,8 +13,8 @@
                         <path d="M27.6075797,35.0427929 L14.5579693,30.6052067 C13.6316104,30.2903222 13.1364475,29.2862157 13.4575998,28.3739212 L13.4578557,28.373132 C13.7779861,27.4637285 14.7954448,26.9768017 15.7189844,27.2908957 L28.7685947,31.728482 C29.6949501,32.0433664 30.1901166,33.047473 29.8689643,33.9597675 L29.8687084,33.9605567 C29.5485779,34.869698 28.5311192,35.3566248 27.6075797,35.0427929 Z" id="路径"></path>
                     </g>
                 </g>
-                <text id="设计导航" font-family="SourceHanSansCN-Medium, Source Han Sans CN" font-size="18" font-weight="400" fill="#444343">
-                    <tspan x="34" y="21">设计导航</tspan>
+                <text id="鱼尾导航" font-family="SourceHanSansCN-Medium, Source Han Sans CN" font-size="18" font-weight="400" fill="#444343">
+                    <tspan x="34" y="21">鱼尾导航</tspan>
                 </text>
                 <text id="123.yuwei.me" font-family="SourceHanSansCN-ExtraLight, Source Han Sans CN" font-size="12" font-weight="300" fill="#444343">
                     <tspan x="36" y="37">123.yuwei.me</tspan>
