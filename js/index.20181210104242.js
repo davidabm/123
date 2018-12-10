@@ -16,6 +16,8 @@ $('.js-9').attr('src', 'images/tu-pian-43.png');
 $('.js-10').attr('src', 'images/tu-pian-43.png');
 $('.js-11').attr('src', 'images/tu-pian-43.png');
 $('.js-12').attr('src', 'images/tu-pian-43.png');
+$('.js-13').attr('src', 'images/iconfont-42.png');
+$('.js-14').attr('src', 'images/facebook-44.png');
 
 }
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(){$(this).click(function(){var t=this.hash.length>1?$('[name="'+this.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
