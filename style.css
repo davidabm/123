@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-	    123.yuwei.me
+	    new123
         Built with Blocs
 -----------------------------------------------------------------------------------*/
 
@@ -75,12 +75,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 .d-bloc .card .btn-wire,.d-bloc .card .btn-wire:hover,.l-bloc .btn-wire,.l-bloc .btn-wire:hover{
 	color:rgba(0,0,0,.7);
 	border-color:rgba(0,0,0,.3);
-}
-
-/* Row Margin Offsets */
-
-.voffset-lg{
-	margin-top:80px;
 }
 
 
@@ -178,43 +172,25 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .container{
 	max-width:1140px;
 }
-.row-style{
-	width:100%;
+.img-style{
+	width:60px;
 }
-.p-style{
-	font-size:14px;
-}
-.p-2-style{
-	font-size:14px;
-}
-.p-3-style{
-	font-size:14px;
-}
-.h5-style{
-	font-size:18px;
-}
-.tit-font{
+.con-tit{
 	font-size:18px;
 	font-weight:bold;
-	color:#676666!important;
+	color:#333333!important;
+	margin-bottom:5px;
 }
-.label-style{
-	font-size:12px;
-}
-.top-tit{
-	height:50px;
-	padding:10px 10px 10px 10px;
-}
-.margin-t-0{
+.con-right{
 	padding:0px 0px 0px 0px;
 }
-.padding-0{
-	padding:0px 0px 0px 0px;
+.content{
+	padding-top:0px;
+	margin-bottom:20px;
+	padding-bottom:0px;
 }
-.tit-column{
-	font-size:16px;
-	font-weight:bold;
-	color:#5D5D5D!important;
+.con-col{
+	margin-bottom:10px;
 }
 
 /* = Colour
