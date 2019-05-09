@@ -201,7 +201,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 
 
-
 /* = Mobile adjustments 
 -------------------------------------------------------------- */
 @media (max-width: 1024px)
@@ -215,12 +214,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
         padding-right: 0;  
     }
 }
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {.b-parallax{background-attachment:scroll;}}
-@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {.b-parallax{background-attachment:scroll;}}
 @media (max-width: 991px)
 {
     .container{width:100%;}
-    .b-parallax{background-attachment:scroll;}
     .page-container, #hero-bloc{overflow-x: hidden;position: relative;} /* Prevent unwanted side scroll on mobile */
     .bloc{padding-left: constant(safe-area-inset-left);padding-right: constant(safe-area-inset-right);} /* iPhone X Notch Support*/
     .bloc-group, .bloc-group .bloc{display:block;width:100%;}
@@ -231,10 +227,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
         overflow-x: hidden;
         position:relative;
     }
-    .b-parallax{
-        background-attachment:scroll;
-    }
-    
     .bloc-tile-2 .container, .bloc-tile-3 .container, .bloc-tile-4 .container{
         padding-left:0;padding-right:0;
     }
